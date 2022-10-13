@@ -27,6 +27,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.lleans.spp_kelompok_2'
 }
 
 dependencies {
